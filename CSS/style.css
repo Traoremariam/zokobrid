@@ -1,0 +1,41 @@
+
+
+ .logo
+ {
+ 	height: 150px;
+ 	width: 150px;
+ }
+.cnn
+{
+	background: #ff4500;
+	width: 60%;
+	color: white;
+	height: 30px;
+	 text-align: center;
+	 padding-top: 5px;
+
+}
+
+.deux
+{
+	height: 150px;
+ 	width: 150px;
+}
+/*html2*/
+
+
+.Fonctionnement
+{
+	font-size: 20px;
+	margin-top: 20px;
+}
+/*index.14*/
+.pie
+{
+	width: 250px; height: 250px;
+	border-radius: 50%;
+	background: conic-gradient(deeppink 20%, #fb3 0, #fb3 30%, yellowgreen 0);
+
+
+
+}
